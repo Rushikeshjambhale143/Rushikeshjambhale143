@@ -22,7 +22,7 @@
 
 <h3 align="center">Stats</h3>
 
- **[![Discord Presence](https://lanyard.cnrad.dev/api/876529960980987904)](https://discord.com/users/876529960980987904)**
+ <!-- [![Discord Presence](https://lanyard.cnrad.dev/api/876529960980987904)](https://discord.com/users/876529960980987904) -->
 
 </div>
 
