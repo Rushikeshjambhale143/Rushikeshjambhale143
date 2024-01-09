@@ -22,11 +22,9 @@
 
 <h3 align="center">Stats</h3>
 
-  [![Discord Presence](https://lanyard.cnrad.dev/api/876529960980987904)](https://discord.com/users/876529960980987904)
+ **[![Discord Presence](https://lanyard.cnrad.dev/api/876529960980987904)](https://discord.com/users/876529960980987904)**
 
 </div>
-
-https://cdn.discordapp.com/attachments/1060197503498190860/1194284206747029515/image.png?ex=65afcad7&is=659d55d7&hm=23a32db6cc4f254d0c3f5a755369a9795e0de3bff38258af785d7213fc0476f4&
 
 
 ###
