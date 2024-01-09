@@ -1,31 +1,70 @@
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Rushikeshjambhale.Rushikeshjambhale&left_text=Rushikeshjambhale143"  />
-</div>
 
-###
+  
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Saira&weight=500&size=30&pause=1000&vCenter=true&random=false&width=435&lines=Hello%2C+Guys+I'm+NaucniGamer" alt="Typing SVG" /></a>
 
-<h2 align="center">Hi 👋, I'm  Rushikesh Jambhale</h2>
+  <h2 align="center">About Me</h2>
+  <p align="center">Greetings! I'm Kishan, a passionate FiveM/RedM developer from vibrant India. With six years of experience, I craft virtual worlds with creativity and innovation. I partnered Bro Code, an organization where we drive our collective journey with these principles.</p>
 
-###
+  ---
 
-<div align="center">
-  <img height="200" src="https://camo.githubusercontent.com/63fb68fa07ebc7468bbd74eb785b8fd6fcfccc7196187b8416eec1e246f9965d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f313130383031373038313237313731373935312f313138353633313732323434303736313530342f746573742d747970696e672e6769663f65783d36353930353039362669733d363537646462393626686d3d6630663031653665393634373134363937663634343136313934393835656137376232373566323933373565663162373964383135376234383734313766366326"  />
-</div>
+  <h3 align="center">Current Projects</h3>
+  
+  <p align="center">🚀 Contributing to Indian Servers like <a href="https://discord.gg/the-legend-s-roleplay-878666249528287243">The Legends Roleplay</a> and working on personal projects</p>
+  <p align="center">🤝 Open to collaborations and providing assistance where needed</p>
+  <p align="center">🌐 Partnered By Bro Code</p>
+  <p align="center">📡 Connect with us on Discord: <a href="https://discord.gg/brocode"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="20" width="20" align="center"> Bro Code Discord</a></p>
+  <b>OR</b>  
+  <p align="center">📡 Connect with us on Discord: <a href="https://discord.gg/wTprTUWgBQ"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="20" width="20" align="center"> RageNation Discord</a></p>
 
-###
+  ---
 
-<div align="left">
-  <a href="[rushikeshjambhale](https://discord.com/users/876529960980987904)
-)" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-</div>
+  <h3 align="center">Skills</h3>
+  
+  <p align="center">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg" alt="LUA" height="40">
+    <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" alt="HTML5" height="40">
+    <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" alt="CSS3" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" alt="NextJs" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="ReactJs" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="Yarn" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="NPM" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="40">
+  </p>
 
- <h3 align="center">Stats</h3>
+  ---
+
+  <h3 align="center">Learning</h3>
+
+  <p align="center">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" alt="Svelte" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" height="40">
+  </p>
+
+  ---
+
+  <h3 align="center">Databases</h3>
+
+  <p align="center">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" alt="FireBase" height="40">
+  </p>
+
+  ---
+
+  <h3 align="center">Connect with Me</h3>
+
+  <p align="center">
+    <a href="https://discord.gg/wTprTUWgBQ" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40"></a>
+    <a href="mailto:nimitbhawani55@gmail.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" alt="Gmail" height="30" width="40"></a>
+  </p>
+
+  ---
+
+  <h3 align="center">Stats</h3>
 
   [![Discord Presence](https://lanyard.cnrad.dev/api/876529960980987904)](https://discord.com/users/876529960980987904)
 
 </div>
-
-
-###
